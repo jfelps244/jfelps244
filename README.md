@@ -2,6 +2,10 @@
 
 My nombre és **João Felipe**
 
--Estou estudando na Alura
-
+- Estou estudando na [Alura](htpps://www.alura.com.br)
 - Estou me desenvolvendo no JavaScript
+- Esta é minha área de trabalho 
+
+joao.santos1912@escola.pr.gov.br
+
+![](https://media.tenor.com/KIZXWIs0-4MAAAAM/ares-pedro.gif)
