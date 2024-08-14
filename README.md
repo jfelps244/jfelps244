@@ -4,7 +4,9 @@ My nombre és **João Felipe**
 
 - Estou estudando na [Alura](htpps://www.alura.com.br)
 - Estou me desenvolvendo no JavaScript
-- Esta é minha área de trabalho 
+- Esta é minha área de trabalho
+
+  **Entre em contato comigo!**
 
 joao.santos1912@escola.pr.gov.br
 
