@@ -1,6 +1,6 @@
   _Bem vindo_ 🥇
 
-My nombre és **João Felipe**
+My nombre és **João Felipe**♥︎
 
 - Estou estudando na [Alura](htpps://www.alura.com.br)
 - Estou me desenvolvendo no JavaScript
