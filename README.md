@@ -9,6 +9,6 @@ My nombre és **João Felipe**
 **Entre em contato comigo!**
 joao.santos1912@escola.pr.gov.br
 
-**Ja segue lá no insta** @jaofelp_   -
+**Ja segue lá no insta** @jaofelp_   
 
 ![](https://media.tenor.com/KIZXWIs0-4MAAAAM/ares-pedro.gif)
